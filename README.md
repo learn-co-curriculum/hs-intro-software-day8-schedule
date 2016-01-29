@@ -16,4 +16,4 @@ Lesson Plans
 [MVC](https://docs.google.com/a/flatironschool.com/document/d/1MUWXzm2O7UQINZqkEBRoVYivPjDbKySYLqNgcEOrDeM/edit)
 [Ideation](https://docs.google.com/a/flatironschool.com/document/d/17nLZH_dYm30km0pbiL64-gxJhZrlqO-VF04gTzfN4ok/edit)
 
-<a href='https://learn.co/lessons/hs-intro-software-day8-schedule' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-software-day8-schedule' title='Schedule'>Schedule</a> on Learn.co and start learning to code for free.</p>
